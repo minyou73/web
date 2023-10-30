@@ -1,0 +1,68 @@
+h3{
+    color:blanchedalmond
+}
+
+p{
+    color: #638862;
+}
+
+/* id 선택자 */
+#two{
+    color:goldenrod;
+}
+
+/*.class 선택자*/
+.orange{
+    color:orange;
+}
+
+p.center{
+    text-align:center;
+}
+
+p#size{
+    font-size: 50px;
+}
+
+li{
+    color:pink ;
+    background-color:antiquewhite;
+}
+
+ul.korean > li {
+    color:slategrey;
+    background-color: aquamarine;
+    
+}
+
+.box{
+    border:5px solid black;
+    border-radius: 6px;
+
+    margin-top: 10px;
+    margin-left: 5px;
+    
+    padding-top: 10px ;
+    text-align: center;
+}
+
+.font{
+    font-family: Tangerine ;
+
+}
+
+.d-inline{
+    display:inline;
+}
+
+.d-block{
+    displa:block;
+}
+
+.d-none{
+    display: none;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+}
